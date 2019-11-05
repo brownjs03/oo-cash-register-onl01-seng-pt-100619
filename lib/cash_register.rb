@@ -31,5 +31,6 @@ class CashRegister
     else
     self.total -= @price
   end
+  end
   
 end
